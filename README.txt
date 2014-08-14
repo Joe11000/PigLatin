@@ -1,5 +1,2 @@
-Run Application
-  ie
-    ruby Pig-latin_solution.rb my sentence here
-
-         myay entencesay erehay # output
+Run Terminal Based Ruby Application
+  ruby Pig-latin_solution.rb
